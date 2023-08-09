@@ -32,7 +32,5 @@ public class QSP5_PrimitiveToString
         System.out.println("it will give reference, cauz array is a object & it is stored in memory so that reference will be returned here:- " + i);
         System.out.println("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*\n");
 
-
-
     }
 }
